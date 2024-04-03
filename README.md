@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ynryo
 - 👀 I’m interested in IT 
-- 🌱 I’m currently learning Web Dev
+- 🌱 I’m currently learning Web Dev and PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
