@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Ynryo
-- 👀 I’m interested in IT 
-- 🌱 I’m currently learning Web Dev and PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning PHP frameworks
+- 💞️ I’m looking for an intership in web dev
 
 <!---
 Ynryo/Ynryo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
